@@ -1,0 +1,14 @@
+1. I spent about two hours working on this project, not counting watching the
+intro videos.
+
+2. I enjoyed learning about the difference between class methods and instance
+methods, and how to use each of them together.
+
+3. I added a "wallet" for each customer (with the amount of cash they have) and
+the program throws an error if a customer tries to buy something they can't. I
+also added the ability to return a product that a customer has already
+purchased.
+
+4. I was a little shaky on my use of the options method, and I'm not sure if my
+initializers are done the Ruby way, so I'd appreciate any tips you have in
+either of those areas, or anything else I could improve upon!
