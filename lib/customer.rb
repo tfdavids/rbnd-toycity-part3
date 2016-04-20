@@ -22,6 +22,14 @@ class Customer
         Transaction.new(self, product)
     end
 
+    def return(product)
+        Transaction.new(self, product, true)
+    end
+
+    def has_product?(product)
+        @products.include?(product)
+    end
+
     # Class methods
 
     def self.all
